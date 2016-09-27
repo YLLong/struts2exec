@@ -27,7 +27,7 @@ CREATE TABLE S_User(
 INSERT INTO s_user (userID,userName,loginName,loginPwd) VALUES (1,'超级管理员','admin','admin');\
 
 # 搭建开发环境
-struts2 + javabean + DAO + C3P0 + DBUtils + MySQL
+struts2 + javabean + DAO + C3P0 + DBUtils + MySQL<br/>
 	asm-3.3.jar
 	asm-commons-3.3.jar
 	asm-tree-3.3.jar
